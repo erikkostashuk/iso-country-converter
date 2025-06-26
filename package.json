@@ -1,0 +1,33 @@
+{
+  "name": "iso-country-converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "countries.json"
+  ],
+  "scripts": {
+    "test": "jest tests/",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "postinstall": "echo 'If you found this package useful please consider buying me a ☕ [coff.ee/devwitherik]'"
+  },
+  "keywords": [
+    "iso",
+    "country",
+    "converter",
+    "alpha-2",
+    "alpha-3",
+    "ISO 3166"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "A simple NPM package to convert country codes between 2-digit (alpha-2) and 3-digit (alpha-3) ISO 3166 formats.",
+  "devDependencies": {
+    "@eslint/js": "^9.29.0",
+    "eslint": "^9.29.0",
+    "eslint-plugin-jest": "^28.14.0",
+    "jest": "^30.0.3",
+    "prettier": "^3.6.1"
+  }
+}
