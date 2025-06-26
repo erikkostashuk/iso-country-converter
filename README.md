@@ -1,4 +1,8 @@
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/devwitherik)
+
 # ISO Country Converter
+
+[![NPM Version](https://img.shields.io/npm/v/iso-country-converter.svg)](https://www.npmjs.com/package/iso-country-converter)
 
 A simple NPM package to convert country codes between 2-digit (alpha-2) and 3-digit (alpha-3) ISO 3166 formats.
 
