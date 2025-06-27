@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.0 - 2025-06-26
+## 1.0.1 - 2025-06-27
 
 ### Added
 - Initial release of the ISO Country Converter package.
